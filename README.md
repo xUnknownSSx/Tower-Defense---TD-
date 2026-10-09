@@ -1,9 +1,9 @@
-# 🥤 Vending Machine Tower Defense
+# Tower Defense
 
 A 2D Tower Defense game built inside **Google Sheets** using Google Apps Script for the Hack Club *Wrong Tool* Game Jam!
 
-## 🎮 How to Test / Play
-1. 👉 Click here to Make a Copy of the Game Sheet:
+## How to Test / Play
+1. Click here to Make a Copy of the Game Sheet:
  https://docs.google.com/spreadsheets/d/1RK47zd0pnAXotw5l5dqCNwdp99zanNkMX65NXR6oekE/edit?usp=sharing
 2. Click **Make a copy** when prompted by Google.
 3. Open the **Game** tab and click **Reset Board**.
